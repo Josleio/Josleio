@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Josleio
-- 👀 I’m interested in Data science and AI engineering
-- 🌱 I’m currently learning both of them
-- 💞️ I’m looking to collaborate on data projects
-- 📫 How to reach me 
+- 👀 I’m interested in Data science,  AI engineering and scripting.
+- 🌱 I’m currently learning Python and Java
+- 💞️ I’m looking to collaborate on data and script projects
+- 📫 Reach me on discord: josleio
 - 😄 Pronouns: she| her
 - ⚡ Fun fact: I'm a great artist and animator!
 
