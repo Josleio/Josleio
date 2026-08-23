@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Josleio
 - 👀 I’m interested in Data science,  AI engineering and scripting.
-- 🌱 I’m always learning Pytho
+- 🌱 I’m always learning Python
 - 💞️ I’m looking to collaborate on data and script projects
 - 📫 Reach me on discord: josleio
 - 😄 Pronouns: she| her
